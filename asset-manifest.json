@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/erxxx4321/poly_stock/static/css/main.2544e43a.css",
-    "main.js": "/erxxx4321/poly_stock/static/js/main.366583e9.js",
-    "index.html": "/erxxx4321/poly_stock/index.html",
-    "main.2544e43a.css.map": "/erxxx4321/poly_stock/static/css/main.2544e43a.css.map",
-    "main.366583e9.js.map": "/erxxx4321/poly_stock/static/js/main.366583e9.js.map"
+    "main.css": "/poly_stock/static/css/main.2544e43a.css",
+    "main.js": "/poly_stock/static/js/main.366583e9.js",
+    "index.html": "/poly_stock/index.html",
+    "main.2544e43a.css.map": "/poly_stock/static/css/main.2544e43a.css.map",
+    "main.366583e9.js.map": "/poly_stock/static/js/main.366583e9.js.map"
   },
   "entrypoints": [
     "static/css/main.2544e43a.css",
